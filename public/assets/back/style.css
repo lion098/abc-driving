@@ -1,0 +1,7 @@
+body {
+    background-color: lightgray !important;
+}
+
+table th:last-of-type {
+    min-width: 100px;
+}
